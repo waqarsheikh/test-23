@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student name="Waqar">
+    <sessions>
+        <year value="2009">
+            <subjects>
+                <subject 
+                    percentage="" 
+                    taken="" 
+                    outof=""
+                    name="Maths" />
+                <subject percentage="" taken="" outof="">Science</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+            </subjects>
+            <result percentage="" taken="" outof="" rank="" grade="" />
+        </year>
+        <year value="2010">
+            <subjects>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+            </subjects>
+            <result percentage="" taken="" outof="" rank="" grade="" />
+        </year>
+        <year value="2011">
+            <subjects>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+            </subjects>
+            <result percentage="" taken="" outof="" rank="" grade="" />
+        </year>
+        <year value="2012">
+            <subjects>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+                <subject percentage="" taken="" outof="">Maths</subject>
+            </subjects>
+            <result percentage="" taken="" outof="" rank="" grade="" />
+        </year>
+    </sessions>
+</student>

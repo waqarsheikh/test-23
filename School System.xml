@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+    <principalOffice>
+        <principal name="Farha Hassan" age="42"></principal>
+    </principalOffice>
+    <vicePrincipalOffice>
+        <vicePrincipal name="Sarah" age="35"></vicePrincipal>
+    </vicePrincipalOffice>
+    <classes>
+        <class name="1">
+            <sections>
+	            <section name="A">	
+	                <students>
+		                <student name="Asif" age="7"></student>
+		                <student name="Daniyal" age="8"></student>
+		                <student name="Hammad" age="7"></student>
+		            </students>
+	            </section>  
+	        </sections>
+        </class>
+        <class name="2">
+        </class>
+        <sections>
+            <section name="A">
+                <section name="B">
+                    <section name="C">
+            </section>
+            <students>
+                <student name="Samad" age="9"></student>
+                <student name="Faraz" age="10"></student>
+                <student name="Junaid" age="7"></student>
+            </students>
+        </sections>
+        <class name="3">
+        </class>
+        <sections>
+            <section name="A">
+                <section name="B">
+            </section>
+            <students>
+                <student name="Farhan" age="11"></student>
+                <student name="Zain" age="10"></student>
+                <student name="Hammad" age="9"></student>
+            </students>
+            <class name="4">
+        </class>
+        <sections>
+            <section name="A">
+            </section>
+            <students>
+                <student name="Arsalan" age="11"></student>
+                <student name="Daniyal" age="12"></student>
+                <student name="Talha" age="11"></student>
+            </students>
+            <class name="5">
+        </class>
+        <sections>
+            <section name="A">
+            </section>
+            <students>
+                <student name="Asif" age="12"></student>
+                <student name="Daniyal" age="12"></student>
+                <student name="Hammad" age="12"></student>
+            </students>
+            <class name="6">
+        </class>
+        <sections>
+            <section name="A">
+                <section name="B">
+            </section>
+            <students>
+                <student name="Muhammad" age="13"></student>
+                <student name="waqar" age="12"></student>
+                <student name="Fatima" age="14"></student>
+            </students>
+            <class name="7">
+        </class>
+        <sections>
+            <section name="A">
+                <section name="B">
+                    <section name="C">
+            </section>
+            <students>
+                <student name="Jamshaid" age="14"></student>
+                <student name="Daniyal" age="14"></student>
+                <student name="Wajiha" age="14"></student>
+            </students>
+            <class name="8">
+        </class>
+        <sections>
+            <section name="A">
+            </section>
+            <students>
+                <student name="Faizan" age="15"></student>
+                <student name="Daniyal" age="16"></student>
+                <student name="Hammad" age="15"></student>
+            </students>
+            <class name="9">
+        </class>
+        <sections>
+            <section name="A">
+                <section name="B">
+            </section>
+            <students>
+                <student name="Umer" age="16"></student>
+                <student name="Daniyal" age="15"></student>
+                <student name="Hamza" age="14"></student>
+            </students>
+            <class name="10">
+        </class>
+        <sections>
+            <section name="A">
+                <section name="B">
+            </section>
+            <students>
+                <student name="Wajid" age="16"></student>
+                <student name="Daniyal" age="17"></student>
+                <student name="Hammad" age="18"></student>
+            </students>
+    </classes>
+    <staffroom>
+        <teachers>
+            <teachersMale>
+                <teacher name="Maqsood" age="30" salary="9000"></teacher>
+                <teacher name="Zia" age="28" salary="11000"></teacher>
+                <teacher name="Khursheed" age="25" salary="7000"></teacher>
+            </teachersMale>
+            <teachersFemale>
+                <teacher name="Ambreen" age="20" salary="9000"></teacher>
+                <teacher name="Nida" age="21" salary="6000"></teacher>
+                <teacher name="Nazish" age="24" salary="7000"></teacher>
+                <teacher name="Farha" age="23" salary="12000"></teacher>
+                <teacher name="Farheen" age="24" salary="10000"></teacher>
+            </teachersFemale>
+        </teachers>
+    </staffroom>
+    <canteen>
+        <books>
+            <book name="Modern English" publisher="Oxford" price="180"></book>
+            <book name="Scientific Science" publisher="Oxford" price="250"></book>
+            <book name="Maths" publisher="Oxford" price="350"></book>
+        </books>
+        <chips>
+            <chip name="Lays"></chip>
+            <chip name="Kurleez"></chip>
+            <chip name="Popstar"></chip>
+        </chips>
+        <biscuits>
+            <biscuit name="Rio"></biscuit>
+            <biscuit name="Prince"></biscuit>
+            <biscuit name="Jam Heart"></biscuit>
+        </biscuits>
+        <stationeries>
+            <pencils>
+                <pencil name="Goldfish"></pencil>
+                <pencil name="Deer"></pencil>
+                <pencil name="Dux"></pencil>
+            </pencils>
+            <rubbers>
+                <rubber name="Goldfish"></rubber>
+                <rubber name="Dux"></rubber>
+                <rubber name="Milan"></rubber>
+            </rubber>
+            <sharpners>
+                <sharpner name="Goldfish"></sharpner>
+                <sharpner name="Dux"></sharpner>
+                <sharpner name="Bhadur"></sharpner>
+            </sharpners>
+        </stationeries>
+    </canteen>
+</school>

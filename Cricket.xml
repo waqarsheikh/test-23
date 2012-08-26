@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricket>
+    <teams>
+        <team>Australia</team>
+        	<managers>
+        	    <manager>PETER WARNER</manager>
+        	</managers>
+        	<players>
+        		<player type="batsman" battingstyle="Right-hand bat" bowlingstyle="Slow left-arm orthodox">Michael Clarke</player>
+        		<player type="All-rounder" battingstyle="Right-hand bat" bowlingstyle="Right-arm fast-medium">Shane Watson</player>
+        		<player type="Bowler" battingstyle="Right-hand bat" bowlingstyle="Legbreak googly">Shane Warne</player>
+        		<player type="Bowler" battingstyle="Right-hand bat" bowlingstyle="Right-arm fast">Brett Lee</player>
+        		<player type="Higher middle order batsman" battingstyle="Right-hand bat" bowlingstyle="Right-arm medium">Ricky Ponting</player>
+        	</players>
+        	<substituteplayers>
+        	    <player>George Bailey</player>
+        	    <player>David Warner</player>
+        	    <player>Shaun Marsh</player>
+        	    <player>David Hussey</player>
+        	</substitutesplayers>
+        <team>England</team>
+        	<managers>
+        	    <manager>David Collier</manager>
+        	</managers>
+        	<players>
+        		<player type="batsman" battingstyle="Left-hand bat" bowlingstyle="Slow left-arm orthodox">Usman Afzaal</player>
+        		<player type="batsman" battingstyle="Right-hand bat" bowlingstyle="Right-arm fast">Stephen James Harmison</player>
+        		<player type="Opening batsman" battingstyle="Left-hand bat" bowlingstyle="Right-arm medium">Marcus Edward Trescothick</player>
+        		<player type="Bowler" battingstyle="Left-hand bat" bowlingstyle="Right-arm medium">Mark Alan Butcher</player>
+        		<player type="Opening batsman" battingstyle="Right-hand bat" bowlingstyle=" Right-arm fasts">Andrew Flintoff</player>
+        	</players>
+        	<substituteplayers>
+        	    <player>Andrew Strauss</player>
+        	    <player>Andrew Symond</player>
+        	    <player>Ravi Bopara</player>
+        	    <player>Alastair Cook</player>
+        	</substitutesplayers>
+        <team>Pakistan</team>
+        	<managers>
+        	    <manager>Muhammad Zaka Ashraf</manager>
+        	</managers>
+        	<players>
+        		<player type="bowler" battingstyle="Right-hand bat" bowlingstyle="Right-arm fast-medium">Abdul Razzaq</player>
+        		<player type="bowler" battingstyle="Right-hand bat" bowlingstyle="Right-arm fast">Mohammad Sami</player>
+        		<player type="batsman" battingstyle="Left-hand bat">Salman Butt</player>
+        		<player type="All-rounder" battingstyle="Right-hand bat" bowlingstyle="Right-arm medium, Legbreak googly">Shahid Afridi</player>
+        		<player type="All-rounder" battingstyle="Right-hand bat" bowlingstyle="Right-arm offbreak">Shoaib Malik</player>
+        	</players>
+        	<substituteplayers>
+        	    <player>Younus Khan</player>
+        	    <player>Inzimam ul Haq</player>
+        	    <player>Asad Shafiq</player>
+        	    <player>Umer Akmal</player>
+        	</substitutesplayers>
+        	 <team>India</team>
+        	 	<managers>
+        	    <manager>Mr. N SRINIVASAN</manager>
+        	</managers>
+        	<players>
+        		<player type="batsman" battingstyle="Right-hand bat" bowlingstyle="Right-arm offbreak">Rahul Sharad Dravid</player>
+        		<player type="batsman" battingstyle="Right-hand bat" bowlingstyle="Right-arm offbreak">Virender Sehwag</player>
+        		<player type="All-rounderr" battingstyle="Left-hand bat" bowlingstyle="Legbreak">Gautam Gambhir</player>
+        		<player type="batsman" battingstyle="Right-hand bat" bowlingstyle="Legbreak googly">Sachin Ramesh Tendulkar</player>
+        		<player type="batsman" battingstyle="Left-hand bat" bowlingstyle="Right-arm offbreak">Suresh Raina</player>
+        	</players>
+        	<substituteplayers>
+        	    <player>Abhinav Mukund</player>
+        	    <player>Robin Uthappaq</player>
+        	    <player>V. V. S. Laxman</player>
+        	    <player>Manoj Tiwary</player>
+        	</substitutesplayers>
+        	<cricketequipments>
+        	    <bats>Cricket Bats</bats>
+        	    <gloves>Batting Gloves</gloves>
+        	    <pads>Batting Pads</pads>
+        	    <wicketkeeping>Wicket Keepings</wicketkeeping>
+        	    <helmet>Helmetss</helmet>
+        	    <shoes>Shoes</shoes>
+        	    <bags>Bags</bags>
+        	    <playingwear>Playing Wear</playingwear>
+        	    <trainingwear>Training Wears</trainingwear>
+        	    <sunglasses>Sunglasses</sunglasses>
+        	    <balls>Balls</balls>	   
+        	</cricketequipments>
+    </teams>
+</cricket>
